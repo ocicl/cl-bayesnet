@@ -1,0 +1,10 @@
+* cl-bayesnet
+
+A Common Lisp Bayesian Network Inference Engine
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lhope/cl-bayesnet.git   |
+| commit  | 3834f6e  |
+| systems | cl-bayesnet |
+|---------+-------------------------------------------|
+
